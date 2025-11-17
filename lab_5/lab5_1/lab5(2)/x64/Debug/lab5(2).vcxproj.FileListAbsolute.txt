@@ -1,0 +1,2 @@
+C:\Users\malyt\source\repos\lab5(2)\lab5(2)\x64\Debug\lab5(2).vcxproj.AssemblyReference.cache
+C:\Users\getni\OneDrive\Рабочий стол\lab_5\lab5_1\lab5(2)\x64\Debug\lab5(2).vcxproj.AssemblyReference.cache
